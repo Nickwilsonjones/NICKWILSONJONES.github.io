@@ -1,9 +1,9 @@
 links:
-- name: Portfolio
-  link: /portfolio/
-- name: Blog
-  link: /blog/
-- name: About
-  link: /about/
-- name: Contact
-  link: /contact/
+  - name: Surgeries we do
+    link: /portfolio/
+  - name: News
+    link: /blog/
+  - name: About us
+    link: /about/
+  - name: Contact
+    link: /contact/
