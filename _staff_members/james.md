@@ -1,7 +1,7 @@
 ---
 name: Meet our team
 position: Dedicated nursing and healthcare professionals
-image_path: 'https://unsplash.it/600/503?image=1062&a=.png'
+image_path: /uploads/f1b61cf2-e757-4fec-99b965e5e3d6bb5a-carouselimage.jpg
 twitter: CloudCannonApp
 ---
 
