@@ -2,7 +2,7 @@
 title: Launching our new website
 categories:
   - News
-author_staff_member: anna
+author_staff_member: mr--nick-wilson-jones
 show_comments: true
 date: 2020-08-09 00:00:00
 ---
