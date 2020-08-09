@@ -1,81 +1,48 @@
 ---
-name: Justice Template
-subtitle: Law firm themed business template for Jekyll
-external_url: https://github.com/CloudCannon/justice-jekyll-template
-image_path: /images/clients/justice.jpg
+name: Vascular Anomalies
+subtitle: Blood vessels formations that have developed incorrectly.
+external_url:
+image_path: /uploads/nwj-vascular-anomalies.jpg
 ---
 
-Law firm themed business template for Jekyll. Browse through a [live demo](https://grey-grouse.cloudvent.net/).
-Increase the web presence of a law firm or business with this configurable theme.
+Please be aware that the field of vascular anomalies covers a **huge range of different pathologies.** Below is some basic advice with respect to the most common.
 
-Justice was made by [CloudCannon](https://cloudcannon.com/), the Cloud CMS for Jekyll.
+If you or your child is awaiting an appointment or surgery, sadly things will be significantly delayed.
 
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
+Please <u><strong>contact us if there are acute, persistent problems </strong></u>affecting you or your child on a daily basis.
 
-## Features
+### Infantile Haemangioma
 
-* Contact form
-* Pre-built pages
-* Pre-styled components
-* Blog with pagination
-* Post category pages
-* Disqus comments for posts
-* Staff and author system
-* Configurable footer
-* Optimised for editing in [CloudCannon](https://cloudcannon.com/)
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
+For those parents who have children with infantile haemangioma (strawberry naevus or strawberry birth mark), the vast majority, as would have been explained to you in the outpatient setting, **will involute (disappear) over the first few years of life** but with only 50% involuted by the age of 5, 70% by the age of 7 and 90% by the age of 9. &nbsp;
 
-## Setup
+If your child has a complicated haemangioma, we may have started, in combination with our paediatric colleagues, using the drug ***Propranolol***. Propranolol should be continued and the dose increased as your child grows.&nbsp;
 
-1. Add your site and author details in `_config.yml`.
-2. Add your Google Analytics and Disqus keys to `_config.yml`.
-3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
+If your child is on Propranolol at present then we can, together with our paediatric colleagues, organise incremental increases in the dosage as long as we have an accurate weight for the child. This can be done via telephone or on-line consultation.
 
-## Develop
+You would already have been given advice concerning the issues to watch out for when your child is on Propranolol and **if there are any significant issues then please contact the doctor who is providing the Propranolol therapy** or myself via my secretary and we can arrange the appropriate review. If you have any serious complications, please do not hesitate in contacting your local emergency department.&nbsp;
 
-Justice was built with [Jekyll](https://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
+### Venous Malformations
 
-Install the dependencies with [Bundler](https://bundler.io/):
+A significant number of patients have venous malformations which are under longer term review. A number of you will be under joint review by myself and the lymphoedema team and may well have **pressure garments**, which should be worn as you have directed.&nbsp;
 
-~~~bash
-$ bundle install
-~~~
+Occasionally, within venous malformations, small painful areas can develop. As soon as this occurs, simple **analgesia** will reduce the inflammatory process and reduce the level of discomfort which normally settles within 5-7 days.&nbsp;
 
-Run `jekyll` commands through Bundler to ensure you're using the right versions:
+If there is prolonged pain or discomfort, or you feel the limb is significantly swollen, then please **contact us immediately** when we can arrange either an online review, via telephone or if absolutely necessary face to face.&nbsp;
 
-~~~bash
-$ bundle exec jekyll serve
-~~~
+### Lymphatic Malformations
 
-## Editing
+If you or your child is suffering from lymphatic malformation, you may be under the joint care of myself and the lymphoedema team with **pressure garments**. You should continue to use those as prescribed.&nbsp;
 
-Justice is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in [CloudCannon](https://app.cloudcannon.com/).
+If you experience **small bleeds** into the **tiny vesicles** in the skin, these are normally self-limiting. You should use conservative measures with a non-stick dressing and contact us if they continue.&nbsp;
 
-### Posts
+Patients with lymphatic malformations are l**ess resistant to localised bacterial infections of the skin,** therefore if you experience any **spreading redness** within or round your lesion, then you might be experiencing a **localised infection**. Please take a photograph and we can provide a safe way to review the images and potentially post you a prescription or offer advice without the need for a face to face review.
 
-* Add, update or remove a post in the *Posts* collection.
-* The **Staff Author** field links to members in the **Staff** collection.
-* Documentation pages are organised in the navigation by category, with URLs based on the path inside the `_docs` folder.
-* Change the defaults when new posts are created in `_posts/_defaults.md`.
+If you are unwell with redness and a high fever please urgently c**ontact your local accident and emergency department.&nbsp;**
 
-### Contact Form
+### Arteriovenous Malformations
 
-* Preconfigured to work with [CloudCannon](https://app.cloudcannon.com/), but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
-* Sends email to the address listed in company details.
+If you or your child is being treated for a true arteriovenous malformation, then hopefully you will be following the advice that we have provided in clinic.&nbsp;
 
-### Staff
+If you have an acute episodes of **bleeding**, direct pressure for three minutes initially and then review. If still bleeding, repeat for a further three minutes. If the bleeding continues, you will need to **attend your local accident and emergency department.**
 
-* Reused around the site to save multiple editing locations.
-* Add `excluded_in_search: true` to any documentation page's front matter to exclude that page in the search results.
-
-### Footer
-
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Footer* section.
-
-### Company details
-
-* Reused around the site to save multiple editing locations.
-* Set in the *Data* / *Company* section.
+If your lesion is **growing rapidly** and giving you cause for concern or if you have recently become **pregnant** please contact my secretary and we can arrange an online or telephone review.&nbsp;
