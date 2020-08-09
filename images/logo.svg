@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 1686 145" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1,0,0,1,-187,-422)">
-        <rect id="Artboard1" x="0" y="0" width="2048" height="1536" style="fill:none;"/>
-        <g id="Artboard11" serif:id="Artboard1">
-            <g transform="matrix(1,0,0,1,-251.127,-34.7119)">
-                <text x="441.22px" y="561.898px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:128px;fill:white;">Kids Plastic Sur<tspan x="1421.16px 1497.97px 1574.03px " y="561.898px 561.898px 561.898px ">ger</tspan>y W<tspan x="1848.35px 1924.41px " y="561.898px 561.898px ">al</tspan>es</text>
-            </g>
+<svg width="100%" height="100%" viewBox="0 0 9385 751" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Artboard2" transform="matrix(1,0,0,0.151114,545.721,111.954)">
+        <rect x="-545.721" y="-740.857" width="9384.93" height="4965.57" style="fill:none;"/>
+        <g transform="matrix(5.58183,0,0,36.9378,-3002.05,-17762.8)">
+            <text x="441.22px" y="561.898px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:128px;fill:white;">Kids Plastic Sur<tspan x="1421.16px 1497.97px 1574.03px " y="561.898px 561.898px 561.898px ">ger</tspan>y W<tspan x="1848.35px 1924.41px " y="561.898px 561.898px ">al</tspan>es</text>
         </g>
     </g>
 </svg>
