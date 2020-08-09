@@ -1,6 +1,8 @@
 ---
 name: Hypospadias
-subtitle:
+subtitle: >-
+  A birth defect in which the opening of the urethra is on the underside of the
+  penis instead of at the tip.
 external_url:
 image_path: /uploads/nwj-hypospadias-1.jpg
 ---
