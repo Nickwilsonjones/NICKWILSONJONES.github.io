@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 9385 751" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g id="Artboard2" transform="matrix(1,0,0,0.151114,545.721,111.954)">
+<svg width="100%" height="100%" viewBox="0 0 2707 622" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Artboard2" transform="matrix(0.288353,0,0,0.125254,157.36,92.7952)">
         <rect x="-545.721" y="-740.857" width="9384.93" height="4965.57" style="fill:none;"/>
-        <g transform="matrix(5.58183,0,0,36.9378,-3002.05,-17762.8)">
-            <text x="441.22px" y="561.898px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:128px;fill:white;">Kids Plastic Sur<tspan x="1421.16px 1497.97px 1574.03px " y="561.898px 561.898px 561.898px ">ger</tspan>y W<tspan x="1848.35px 1924.41px " y="561.898px 561.898px ">al</tspan>es</text>
+        <g transform="matrix(19.3577,0,0,44.5642,-7432.96,-21277.3)">
+            <text x="441.22px" y="561.898px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:128px;fill:white;">KPSW</text>
+        </g>
+        <g transform="matrix(2.38435,0,0,5.98072,-4795.43,-352.016)">
+            <path d="M2105.55,382.908C2105.55,382.908 2088.19,238.76 2094.26,192.737C2100.34,146.714 2125.53,30.353 2145.5,17.328C2165.47,4.302 2168.95,-2.644 2196.73,2.566C2224.52,7.776 2248.83,52.062 2253.18,73.771C2257.52,95.48 2273.15,184.922 2234.94,310.834L2196.73,436.746C2196.73,436.746 2203.68,448.904 2207.15,461.929C2210.63,474.954 2241.02,534.003 2218.44,587.841C2195.86,641.68 2159.39,699.86 2114.24,712.017C2069.08,724.174 2056.06,730.253 2020.46,715.491C1984.85,700.728 1944.91,640.811 1930.14,615.629C1915.38,590.446 1912.78,542.687 1917.12,520.978C1921.46,499.269 1932.75,461.929 1943.17,447.167C1953.59,432.405 1967.49,426.326 1967.49,426.326C1967.49,426.326 1923.2,331.675 1902.36,262.206C1881.52,192.737 1878.91,136.293 1879.78,123.268C1880.65,110.243 1882.38,56.404 1891.94,40.774C1901.49,25.143 1911.04,6.039 1934.49,2.566C1957.93,-0.908 1983.12,14.723 2000.48,37.3C2017.85,59.878 2042.16,158.871 2044.77,182.317C2047.37,205.762 2059.53,303.019 2056.93,329.938C2054.32,356.857 2049.11,377.698 2049.11,377.698C2049.11,377.698 2062.14,377.698 2073.43,379.435C2084.71,381.171 2105.55,382.908 2105.55,382.908Z" style="fill:white;"/>
         </g>
     </g>
 </svg>
